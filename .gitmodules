@@ -1,3 +1,6 @@
 [submodule "ssh_keygen/sat at my place"]
 	path = ssh_keygen/sat at my place
 	url = https://DJRolls@github.com/Ciphey/Ciphey
+[submodule "DJRolls@github.com"]
+	path = DJRolls@github.com
+	url = https://DJRolls@github.com/
